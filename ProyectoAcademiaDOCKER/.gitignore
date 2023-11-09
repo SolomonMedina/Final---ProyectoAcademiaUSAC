@@ -1,0 +1,9 @@
+ProyectoAcademia/.env
+*.pyc
+*.bak
+*.db
+media/
+node_modules/
+tmp/
+*.yml
+*.tmp
